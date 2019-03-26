@@ -730,7 +730,7 @@ object Form1: TForm1
       object Label9: TLabel
         Left = 88
         Top = 24
-        Width = 57
+        Width = 3
         Height = 15
       end
       object RadioGroup1: TRadioGroup
@@ -795,7 +795,7 @@ object Form1: TForm1
       object Label11: TLabel
         Left = 88
         Top = 24
-        Width = 57
+        Width = 3
         Height = 15
       end
       object RadioGroup2: TRadioGroup
@@ -860,7 +860,7 @@ object Form1: TForm1
       object Label13: TLabel
         Left = 88
         Top = 24
-        Width = 65
+        Width = 3
         Height = 15
       end
       object RadioGroup3: TRadioGroup
@@ -925,7 +925,7 @@ object Form1: TForm1
       object Label15: TLabel
         Left = 91
         Top = 24
-        Width = 37
+        Width = 3
         Height = 15
       end
       object RadioGroup4: TRadioGroup
@@ -990,7 +990,7 @@ object Form1: TForm1
       object Label17: TLabel
         Left = 83
         Top = 24
-        Width = 37
+        Width = 3
         Height = 15
       end
       object RadioGroup5: TRadioGroup
@@ -1055,7 +1055,7 @@ object Form1: TForm1
       object Label19: TLabel
         Left = 88
         Top = 24
-        Width = 72
+        Width = 3
         Height = 15
       end
       object RadioGroup6: TRadioGroup

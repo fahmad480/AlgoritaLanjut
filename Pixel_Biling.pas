@@ -447,7 +447,7 @@ end;
 
 procedure TForm1.About1Click(Sender: TObject);
 begin
-Application.MessageBox('Dibuat Oleh:' + #13#10 + 'Faraaz (152018070)' + #13#10 + 'M Rauf (152018057)' + #13#10 + 'Fauzan Fathur (152018000)' + #13#10 + 'Tirtafajar (152018000)', 'Pixel Billing', MB_OK);
+Application.MessageBox('Dibuat Oleh:' + #13#10 + 'Faraaz (152018070)' + #13#10 + 'M Rauf (152018057)' + #13#10 + 'Fauzan Fathur (152018039)' + #13#10 + 'Tirtafajar (152018049)', 'Pixel Billing', MB_OK);
 end;
 
 procedure TForm1.Save1Click(Sender: TObject);
