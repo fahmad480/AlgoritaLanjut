@@ -13,14 +13,18 @@ Tirta fajar Yogaswara (152018039)
 Fauzan Fathur Rahman (152018049)
 
 
+## Berkas Laporan ( MS Word )
+
+![Berkas Laporan](https://github.com/zFz0000/AlgoritaLanjut/blob/master/QR%20Laporan.png?raw=true)
+
 ## Berkas Project Flowchart ( MS Visio )
 
-![alt text](https://github.com/zFz0000/AlgoritaLanjut/blob/master/QR%20Flowchart.png?raw=true)
+![Berkas Flowchart](https://github.com/zFz0000/AlgoritaLanjut/blob/master/QR%20Flowchart.png?raw=true)
 
 
 ## Berkas Program ( *.exe )
 
-![alt text](https://github.com/zFz0000/AlgoritaLanjut/blob/master/QR%20Program.png?raw=true)
+![Berkas Program](https://github.com/zFz0000/AlgoritaLanjut/blob/master/QR%20Program.png?raw=true)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
